@@ -1,8 +1,8 @@
-# biological-active-authentication
+# Biological-Active-Authentication
 Biological Active Authentication (BAA) uses changeable, hard-to-imitate and actively-shown biological characteristics to identify an individual.
 ## Overview
 The biological active authentication strategy proposed here is based on biometrics and includes an active authentication and authorization method of AI technology. The goal is to create such an identity authentication method: it is unconstrained, simple and quick, and as accurate and safe as you, as an inspector, sees me express the agreed secret sign.
-## background
+## Background
 At present, biometric technology has made great progress. Fingerprint recognition, face recognition has been widely accepted. At the same time, the research on voiceprint locks has made great progress, which can meet the needs of enterprises and individual users. Compared with traditional authentication methods such as passwords and cards, it has a certain degree of non-replication and is simple, fast, convenient, and difficult to change.
 ## The significance of biological active authentication strategy
 Traditional identity authentication methods have characteristics such as easy to lose and easy to steal. The new biometric verification has the extremely passive nature of the verified person: the verified person cannot change his verification credentials (most of his credentials are of a lifetime), and it is difficult to reject the verification when the verified person is under control. In the case of voiceprint locks, a particular problem is that they are relatively useless, such as in quiet public places or conference rooms, and their unlocking is not concealable (while infrared rays used for face recognition cannot be detected by human eyes).
